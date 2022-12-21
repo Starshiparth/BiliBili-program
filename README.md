@@ -1,2 +1,7 @@
-# BiliBili-program
-BiliBili matching program.
+# 来自BiliBili的小伙伴好，这里是星舰Earth_为战而生的BiliBili专属存储库~
+这里面存储的都是Python配套程序
+当你要找的时候，你必须要知道那是第几期视频，然后下载专属zip。比如：
+【Python爬虫】我们来爬源代码！
+这是第一期，就要找叫做“B1.zip”这个文件
+你知道了吗？
+再见！
